@@ -1,14 +1,12 @@
-# Aetomic Research
-
-# Operational Intelligence
+# Aetomic Technology Research
 
 *A practical body of research exploring how organisations perceive, interpret and respond to changing operational conditions.*
 
 ---
 
-## Welcome
+## Introduction
 
-Operational Intelligence is a long-term research programme that seeks to develop a practical framework for understanding organisations, operational decision-making and the role of artificial intelligence in supporting human judgement.
+Operational Intelligence is a long-term research programme by Aetomic that seeks to develop a practical framework for understanding organisations, operational decision-making and the role of artificial intelligence in supporting human judgement.
 
 This website serves as the canonical home for the Operational Intelligence Papers.
 

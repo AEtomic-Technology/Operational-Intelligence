@@ -16,8 +16,8 @@ This website serves as the canonical home for the Operational Intelligence Paper
 
 If you're new to Operational Intelligence, begin here.
 
-- 📖 [Paper 001 — What Is Operational Intelligence](papers/001-what-is-operational-intelligence.html)
-- 📚 [Operational Intelligence Glossary](concepts/glossary.html)
+- 📖 [Paper 001 — What Is Operational Intelligence](papers/001-what-is-operational-intelligence.md)
+- 📚 [Operational Intelligence Glossary](concepts/glossary.md)
 - 📄 Research Principles *(coming soon)*
 
 ---
@@ -46,7 +46,7 @@ Authoritative definitions used throughout the research programme.
 - Decision Ownership
 
 ➡️ View the complete glossary:
-[Glossary](concepts/glossary.html)
+[Glossary](concepts/glossary.md)
 
 ---
 

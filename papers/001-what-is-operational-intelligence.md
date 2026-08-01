@@ -89,5 +89,5 @@ As organisations increasingly adopt AI, the distinguishing capability will not b
 That is the purpose of Operational Intelligence.
 
 ---
-**Document Status:** Draft under active development.
+**Document Update:** 1 August 2026
 

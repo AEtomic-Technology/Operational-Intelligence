@@ -1,10 +1,10 @@
-# Context is the Foundation of Operational Judgement
+# Paper 003: Context is the Foundation of Operational Judgement
 
 **Status:** Ver 1.0
 
 **Author:** Roy Phang
 
-**Published by:** Aetomic Ptd Ltd, Singapore
+**Publisher:** Aetomic Ptd Ltd, Singapore
 
 ---
 ## Introduction

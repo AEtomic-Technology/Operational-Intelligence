@@ -30,7 +30,7 @@ The quality of those decisions determines safety, resilience, efficiency, custom
 
 Operational Intelligence should not be confused with dashboards, workflow engines or AI assistants. Those technologies contribute useful capabilities, but none of them constitute Operational Intelligence on their own. A dashboard reports information. A workflow system executes predefined processes. A large language model generates responses from available knowledge. 
 
-Operational Intelligence combines information from many sources, reasons about the current operational state, understands organisational rules and objectives, and supports appropriate action.
+Operational Intelligence [[combines information]](https://github.com/Aetomic-Technology/Operational-Intelligence/blob/main/papers/003-context-is-the-foundation-of-operational-judgement.md) from many sources, reasons about the current operational state, understands organisational rules and objectives, and supports appropriate action.
 
 ---
 ## Core Principles
@@ -66,7 +66,7 @@ Operational Intelligence combines information from many sources, reasons about t
 
 Modern organisations already possess sensors, software platforms, communications systems and increasing amounts of data. 
 
-What they often lack is an intelligence layer capable of interpreting those signals within operational context. As organisations become more complex, the cost of fragmented decision-making increases. 
+What they often lack is an intelligence layer capable of interpreting those signals within operational context. As organisations become more complex, the [[cost]](https://github.com/Aetomic-Technology/Operational-Intelligence/blob/main/papers/002-knowledge-is-not-the-same-as-judgement.md) of fragmented decision-making increases. 
 
 Operational Intelligence addresses this gap by connecting information, reasoning over context and supporting disciplined action. 
 
@@ -82,11 +82,11 @@ Products such as *AEGIS*, *AEDO*, *Helios* and future Aetomic platforms apply th
 ---
 ## Operational Intelligence is Not Just "Another AI"
 
-Operational Intelligence is not simply another application of artificial intelligence. It is a discipline focused on operational understanding, governed reasoning and human-centred decision support. 
+Operational Intelligence is not simply another application of artificial intelligence. **It is a discipline focused on operational understanding, governed reasoning and human-centred decision support.** 
 
 As organisations increasingly adopt AI, the distinguishing capability will not be access to models but the ability to apply intelligence within the realities of people, processes, assets and mission. 
 
-That is the purpose of Operational Intelligence.
+*That* is the purpose of Operational Intelligence.
 
 ---
 **Document Update:** 1 August 2026

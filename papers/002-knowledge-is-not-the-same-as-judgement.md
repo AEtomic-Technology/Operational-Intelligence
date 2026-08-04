@@ -1,4 +1,4 @@
-# Paper 001: What Is Operational Intelligence?
+# Paper 002: Knowledge Is Not the Same as Judgement
 
 **Status:** Draft v0.1
 

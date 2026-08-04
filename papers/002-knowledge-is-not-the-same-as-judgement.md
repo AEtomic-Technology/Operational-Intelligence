@@ -84,7 +84,7 @@ However, the ability to retrieve knowledge should not be confused with the abili
 
 *Knowledge* concerns itself primarily with what is known. It explains how systems function, what policies require, what regulations prescribe and what historical experience suggests. 
 
-*Judgement* addresses a fundamentally different question. It determines which aspects of that knowledge are relevant under present conditions, how competing objectives should be balanced, what uncertainties remain unresolved and which course of action is most appropriate despite the inevitable absence of complete certainty.
+*Judgement* addresses a fundamentally different question. It determines which aspects of that knowledge are relevant under [[present conditions]](https://github.com/Aetomic-Technology/Operational-Intelligence/blob/main/papers/003-context-is-the-foundation-of-operational-judgement.md), how competing objectives should be balanced, what uncertainties remain unresolved and which course of action is most appropriate despite the inevitable absence of complete certainty.
 
 An experienced facilities manager rarely decides solely on the basis of a maintenance manual. 
 
